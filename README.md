@@ -9,5 +9,5 @@ React.js
 
 Using installer [pip](https://pip.pypa.io/en/stable/)
 ```
-pip install speecrecognition
+pip install speechrecognition
 ```
