@@ -24,6 +24,7 @@ class User(models.Model):
 class Request(models.Model):
     description = models.TextField(max_length = 1000)
     request_from = models.ForeignKey(User, on_delete = models.CASCADE)
+    #Add foreign key to user table
     request_to = models.IntegerField()
     humidity = models.FloatField()
     temperature = models.FloatField()
