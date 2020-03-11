@@ -1,9 +1,0 @@
-Chemical Lab Monitoring System
-Roll no:  02 ,06,23
-Batch A 
-
-Arduino Uno x 2
-DHT 22(Temperature and Humidity) x 2
-MQ 135(Air Quality) x 2 
-Raspberry Pi 3
-
